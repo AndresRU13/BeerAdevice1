@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BeerAdevice1</string>
+    <string name="find_beer">Encontrar cerveza!</string>
+    <string name="brands">No hay cerveza seleccionada</string>
+    <string-array name="beer_colors">
+        <item>Ligth</item>
+        <item>Amber</item>
+        <item>Brown</item>
+        <item>Dark</item>
+    </string-array>
+</resources>
